@@ -22,4 +22,4 @@ git push =  permet d'envoyer nos dernières modifications en ligne (récupérabl
 
 git pull = récupère du travail en ligne vers le local
 
-j'ajoute une ligne
+git clone = duplique un repertoire ou projet depuis github
